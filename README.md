@@ -21,3 +21,17 @@ Would be something like that.
 * don't use dot(.) at end
 * don't capitalize first letter
 
+### emoji
+* 🛠 build
+* 👀 chore
+* 📦 feat
+* 🐛 fix
+* 📝 docs
+* 🗜️ refactor
+* 🚀 perf
+* 🎨 style
+* 🧪 test
+
+### example
+🛠 build(app gradle): add new itextpdf library
+
